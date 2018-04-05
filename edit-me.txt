@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Learn Love Code Edit Me txt
+=======
+Learn Love Code Edit Me txt
+>>>>>>> d563794c94794fdc188312c8219b8ecbc09b2d24
